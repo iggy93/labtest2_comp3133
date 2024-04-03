@@ -1,0 +1,25 @@
+.card-image {
+  max-width: 100px;
+}
+
+.card {
+  background-color: #e0e0ff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 1rem;
+}
+
+.card-title {
+  font-size: large;
+}
+
+.mission-details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.mission-details img {
+  float: left;
+  margin-right: 1rem;
+}

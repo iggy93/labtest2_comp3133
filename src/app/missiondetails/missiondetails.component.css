@@ -1,0 +1,34 @@
+.mission-details {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+.mission-details img {
+    float: left;
+    margin-right: 1rem;
+}
+
+h2 {
+    color: #9c27b0;
+    transition: color 0.3s ease; 
+    cursor: pointer; 
+}
+
+h2:hover {
+    color:  #5e009c; 
+}
+
+
+.card {
+    background-color: #e8eaf6; 
+    padding: 10px;
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.card:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
+}
