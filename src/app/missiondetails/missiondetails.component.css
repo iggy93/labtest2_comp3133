@@ -10,18 +10,18 @@
 }
 
 h2 {
-    color: #9c27b0;
+    color: #ffffff;
     transition: color 0.3s ease; 
     cursor: pointer; 
 }
 
 h2:hover {
-    color:  #5e009c; 
+    color:  #8c8c8c; 
 }
 
 
 .card {
-    background-color: #e8eaf6; 
+    background-color: #2f74e3; 
     padding: 10px;
     border-radius: 8px; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 

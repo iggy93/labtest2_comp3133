@@ -30,8 +30,8 @@
 }
 
 .card {
-  background-color: #e0e0ff;
-  border: solid 1px #5e009c;
+  background-color: #2f74e3;
+  border: solid 1px #e3b921;
   padding: 10px;
   height: 400px;
   width: 300px;
@@ -40,9 +40,9 @@
 }
 
 .year-list a.active {
-  background-color: #dcd0ff;
+  background-color: #2f74e3;
   font-weight: bold;
-  color: #5e009c;
+  color: #8438b6;
  
   border-radius: 5px;
 }
